@@ -1,0 +1,14 @@
+C:\Users\usuario\Documents\Metodología\Trabajos\GuiaMetodologia\Producto\Producto\bin\Debug\net8.0\Producto.exe
+C:\Users\usuario\Documents\Metodología\Trabajos\GuiaMetodologia\Producto\Producto\bin\Debug\net8.0\Producto.deps.json
+C:\Users\usuario\Documents\Metodología\Trabajos\GuiaMetodologia\Producto\Producto\bin\Debug\net8.0\Producto.runtimeconfig.json
+C:\Users\usuario\Documents\Metodología\Trabajos\GuiaMetodologia\Producto\Producto\bin\Debug\net8.0\Producto.dll
+C:\Users\usuario\Documents\Metodología\Trabajos\GuiaMetodologia\Producto\Producto\bin\Debug\net8.0\Producto.pdb
+C:\Users\usuario\Documents\Metodología\Trabajos\GuiaMetodologia\Producto\Producto\obj\Debug\net8.0\Producto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\Metodología\Trabajos\GuiaMetodologia\Producto\Producto\obj\Debug\net8.0\Producto.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\Metodología\Trabajos\GuiaMetodologia\Producto\Producto\obj\Debug\net8.0\Producto.AssemblyInfo.cs
+C:\Users\usuario\Documents\Metodología\Trabajos\GuiaMetodologia\Producto\Producto\obj\Debug\net8.0\Producto.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Metodología\Trabajos\GuiaMetodologia\Producto\Producto\obj\Debug\net8.0\Producto.dll
+C:\Users\usuario\Documents\Metodología\Trabajos\GuiaMetodologia\Producto\Producto\obj\Debug\net8.0\refint\Producto.dll
+C:\Users\usuario\Documents\Metodología\Trabajos\GuiaMetodologia\Producto\Producto\obj\Debug\net8.0\Producto.pdb
+C:\Users\usuario\Documents\Metodología\Trabajos\GuiaMetodologia\Producto\Producto\obj\Debug\net8.0\Producto.genruntimeconfig.cache
+C:\Users\usuario\Documents\Metodología\Trabajos\GuiaMetodologia\Producto\Producto\obj\Debug\net8.0\ref\Producto.dll

@@ -1,0 +1,14 @@
+C:\Users\usuario\Documents\Metodología\Trabajos\GuiaMetodologia\Avion\Avion\bin\Debug\net8.0\Avion.exe
+C:\Users\usuario\Documents\Metodología\Trabajos\GuiaMetodologia\Avion\Avion\bin\Debug\net8.0\Avion.deps.json
+C:\Users\usuario\Documents\Metodología\Trabajos\GuiaMetodologia\Avion\Avion\bin\Debug\net8.0\Avion.runtimeconfig.json
+C:\Users\usuario\Documents\Metodología\Trabajos\GuiaMetodologia\Avion\Avion\bin\Debug\net8.0\Avion.dll
+C:\Users\usuario\Documents\Metodología\Trabajos\GuiaMetodologia\Avion\Avion\bin\Debug\net8.0\Avion.pdb
+C:\Users\usuario\Documents\Metodología\Trabajos\GuiaMetodologia\Avion\Avion\obj\Debug\net8.0\Avion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\Metodología\Trabajos\GuiaMetodologia\Avion\Avion\obj\Debug\net8.0\Avion.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\Metodología\Trabajos\GuiaMetodologia\Avion\Avion\obj\Debug\net8.0\Avion.AssemblyInfo.cs
+C:\Users\usuario\Documents\Metodología\Trabajos\GuiaMetodologia\Avion\Avion\obj\Debug\net8.0\Avion.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Metodología\Trabajos\GuiaMetodologia\Avion\Avion\obj\Debug\net8.0\Avion.dll
+C:\Users\usuario\Documents\Metodología\Trabajos\GuiaMetodologia\Avion\Avion\obj\Debug\net8.0\refint\Avion.dll
+C:\Users\usuario\Documents\Metodología\Trabajos\GuiaMetodologia\Avion\Avion\obj\Debug\net8.0\Avion.pdb
+C:\Users\usuario\Documents\Metodología\Trabajos\GuiaMetodologia\Avion\Avion\obj\Debug\net8.0\Avion.genruntimeconfig.cache
+C:\Users\usuario\Documents\Metodología\Trabajos\GuiaMetodologia\Avion\Avion\obj\Debug\net8.0\ref\Avion.dll
